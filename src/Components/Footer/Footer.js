@@ -2,7 +2,7 @@ import React from 'react'
 import {AllRightsReserved} from './styles'
 
 
-const Footer = () => {
+function Footer(){
   return (
     <AllRightsReserved>All rights reserved</AllRightsReserved>
   )

@@ -2,7 +2,7 @@ import React from 'react'
 import {HeaderContainer, Logo, NavBar, OptionsList} from './styles'
 import logo from '../../assets/picture.png'
 
-const Header = () => {
+function Header (){
   return (
     <HeaderContainer>
         <Logo>
