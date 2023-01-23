@@ -12,6 +12,7 @@ function MainPage() {
         </label>
         <label>
           Idade:
+        </label>
           <Input/>
       <button>Enviar dados</button>
       </Form>
