@@ -12,9 +12,9 @@ function MainPage() {
         </label>
         <label>
           Idade:
-        </label>
           <Input/>
-      <button>Enviar dados</button>
+        </label>  
+        <button>Enviar dados</button>
       </Form>
     </MainContainer>
   )
