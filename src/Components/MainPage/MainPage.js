@@ -1,5 +1,5 @@
 import React from 'react'
-import {MainContainer, Form, Input} from './styles'
+import { MainContainer, Form, Input } from './styles'
 
 function MainPage() {
   return (
@@ -12,8 +12,8 @@ function MainPage() {
         </label>
         <label>
           Idade:
-          <Input/>
-        </label>  
+          <Input />
+        </label>
         <button>Enviar dados</button>
       </Form>
     </MainContainer>
